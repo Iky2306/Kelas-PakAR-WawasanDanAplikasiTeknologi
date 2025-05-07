@@ -1,4 +1,4 @@
-# README: Sistem Prediksi Tingkat Kemacetan Lalu Lintas
+# Sistem Prediksi Tingkat Kemacetan Lalu Lintas
 
 ## **Deskripsi Proyek**
 
@@ -138,8 +138,5 @@ Dataset berisi:
    * Eksperimen dengan algoritma lain seperti Gradient Boosting atau Neural Networks.
    * Melakukan hyperparameter tuning untuk Random Forest.
 
----
-
-## **Lisensi**
-
-Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Anda bebas untuk menggunakan dan memodifikasi kode sesuai kebutuhan Anda.
+##### Projek ini untuk memenuhi tugas dari mata kuliah WAWASAN DAN APLIKASI TEKNOLOGI
+##### Dosen pengampu: Ahmad Roihan, S.Kom.,M.Ti.
